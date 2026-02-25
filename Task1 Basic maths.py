@@ -7,10 +7,12 @@ c=input("multiplication: (num1 * num2)")
 d=input("division: (num1 / num2)")
 print (num1,num2)
 """
-print (int(num1) + int(num2))
-print (int(num1) - int(num2))
-print (int(num1) * int(num2))
-print (int(num1) / int(num2))
+print ("Addition:",int(num1) + int(num2))
+print ("Subtraction:",int(num1) - int(num2))
+print ("Multiplication:",int(num1) * int(num2))
+print ("Division:",int(num1) / int(num2))
+
+
 
 
 
